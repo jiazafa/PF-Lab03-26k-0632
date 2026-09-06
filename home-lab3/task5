@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main() {
+char character:
+char full name[100];
+printf("enter a signal character:");
+character = getchar();
+printf("you entered:");
+putchar("character");
+putchar('\n');
+printf("enter your full name:");
+fgets(fullname,sizeof(fullname),stdin);
+printf("your full name is :);
+puts(full name);
+return 0;
+}
