@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main() {
+printf("\t\"id card\"\n);
+printf("\tName: \tjavaria\n");
+printf("\troll number:\t12345\n");
+printf("\tDepartment:\tComputer Science\n");
+printf("\tfile path: c:\\users\\student\n");
+printf("\a");
+return 0;
+}
